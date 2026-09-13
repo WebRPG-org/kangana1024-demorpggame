@@ -1,6 +1,3 @@
-# Godot cache directory
-.godot/
-
 # Auto Claude data directory
 .auto-claude/
 
